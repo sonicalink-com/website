@@ -56,8 +56,8 @@ jQuery(document).ready(function($) {
     
     // INIT PARALLAX PLUGIN
     $(".hero .background-content.parallax-on").parallax({
-        scalarX: 72,
-        scalarY: 45,
+        scalarX: 24,
+        scalarY: 15,
         frictionX: 0.1,
         frictionY: 0.1,
     });
