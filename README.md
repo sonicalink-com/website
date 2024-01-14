@@ -18,7 +18,6 @@
 
 
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
 
@@ -150,6 +149,8 @@ There are many parties involved to make this project possible.
 * [Google Fonts](https://fonts.google.com)
 * [Font Awesome](https://fontawesome.com)
 * [Choose an Open Source License](https://choosealicense.com)
+
+We would also like to express our sincere gratitude and appreciation to every contributors to improve Sonicalink.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
