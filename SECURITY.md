@@ -12,3 +12,4 @@ We currently do not have a bug bounty program, but your contribution to finding 
 <br><br>You WILL receive an update email no matter the report is accept or not, within 120 hours, under normal circumstances.
 
 > We are working on a support portal, this policy may be updated in the near future.
+> <br>Meanwhile, Github vulnerabililty reporting is enabled.
