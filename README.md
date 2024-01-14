@@ -113,6 +113,9 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+> Do not create public issues or feature requests for security vulnerabilities, please report to us directly.
+> <br>More details about security policy [here](https://github.com/sonicalink-com/website/security).
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
