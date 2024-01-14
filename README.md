@@ -123,7 +123,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under Creative Commons Attribution 4.0 International due to currently using third-party coming soon template.
 We are planning to update our license in the near future after actually publishing the website.
-See `LICENSE` for more information.
+See `LICENSE.md` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -171,4 +171,4 @@ There are many parties involved to make this project possible.
 [issues-url]: https://github.com/sonicalink-com/website/issues
 
 [license-shield]: https://img.shields.io/github/license/sonicalink-com/website.svg?style=for-the-badge
-[license-url]: https://github.com/sonicalink-com/website/blob/master/LICENSE
+[license-url]: https://github.com/sonicalink-com/website/blob/master/LICENSE.md
